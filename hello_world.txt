@@ -1,1 +1,3 @@
 some text to it
+I am practicing using Git to better my understanding
+of how the basic commands work.
